@@ -1,4 +1,4 @@
-## Supply_Chain_Performance_and_Deliavery_Analytics
+## Supply_Chain_Performance_and_Delivery_Analytics
 ---
 
 ## 📌 Project Overview
